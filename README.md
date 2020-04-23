@@ -2,7 +2,7 @@
 
 ## Folder tree
 
-
+```
 .
 ├── app
 │   ├── Domain
@@ -20,3 +20,4 @@
 │       └── Template
 ├── config
 └── public
+```
