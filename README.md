@@ -2,6 +2,7 @@
 
 ## Folder tree
 
+```
 .
 ├── app
 │   ├── Domain
@@ -18,3 +19,4 @@
 │   └── Presentation
 ├── config
 └── public
+```
