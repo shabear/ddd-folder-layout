@@ -2,6 +2,7 @@
 
 ## Folder tree
 
+
 .
 ├── app
 │   ├── Domain
@@ -16,5 +17,6 @@
 │   │   ├── Middleware
 │   │   └── Persistence
 │   └── Presentation
+│       └── Template
 ├── config
 └── public
